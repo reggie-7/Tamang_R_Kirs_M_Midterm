@@ -1,11 +1,10 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Batman vs Joker}
-We are debating between which character is better written either Batman or joker.
+
+# Joker vs Batman
+We are debating between which character is better written either Joker or Batman.
 ## Installation
-TODO: Describe the installation process
+No installation needed
 ## Usage
-TODO: Write usage instructions
+You can open it by clicking in index file with your choice of browser.
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -15,9 +14,6 @@ TODO: Write usage instructions
 ## History
 TODO: Write history
 ## Credits
-TODO: Write credits
 ## Rabin Tamnag and Mikhail Kirs
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+## License
+MIT License
